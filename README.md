@@ -1,4 +1,4 @@
-# PirateCraftRP
+# PirateCraft Resource Pack
 PirateCraft Resource pack for piratemc.com
 # Credit
 
