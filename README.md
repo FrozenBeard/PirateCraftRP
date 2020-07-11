@@ -50,8 +50,6 @@ PirateCraft Resource pack for piratemc.com
 # Todo
 - Add bigdoors sounds
 
-- Add in rest of VanilaTweaks changes ive tested
-
 - Add in NicoSemsrott Artwork for Paitings
 
 - Add in custom item for Grappling hook
