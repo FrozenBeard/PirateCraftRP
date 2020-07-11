@@ -33,6 +33,8 @@ PirateCraft Resource pack for piratemc.com
 
 - iwanio - 1.13 and 1.14 versions
 
+- Vanilla Tweaks - https://vanillatweaks.net/picker/resource-packs/
+
 # How to create the pack
 1) Download this repository 
 
