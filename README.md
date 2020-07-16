@@ -3,13 +3,12 @@ PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be o
 
 # Features
 - Custom artwork for PirateCraft created by [NicoSemsrott](https://www.instagram.com/panpukinart/?hl=en)
-- Big annimated door sounds for when you open ```/doors``` on PirateCraft
-- PirateCraft spawn panoramic in main menu (GodsDead)
-- Dark UI theme ported from Vanillatweaks 1.13 down to 1.12 (GodsDead)
-- 2 varients with sounds and without sounds (Massive file size difference)
-- 3D model guns replace horse armour
+- Big annimated door sounds for when you open ```/doors``` on PirateCraft 
+- PirateCraft spawn panoramic in main menu by [GodsDead](https://piratemc.com/members/GodsDead/)
+- Dark UI theme ported from Vanillatweaks 1.13 down to 1.12 by [GodsDead](https://piratemc.com/members/GodsDead/)
+- Pirate Shanties for music discs!
+- 3D model guns replace horse armour (coming soon, models are made!)
 - Pirate Swords to replace normal swords
-- Shanties for music discs!
 - Vanilla Tweaks
   - Unobtrusive Fire, Low fire for PVP!
   - Unobtrusive Rain, Thinner rain
@@ -21,7 +20,6 @@ PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be o
   - GUI, No Java Edition Title
   - GUI, Smoother Font
   - GUI, Stone background for options menu (Dirt is rubbish!)
-
 
 # How to create the pack
 Clone this repo into:
@@ -52,3 +50,4 @@ https://github.com/PirateCraft/ResourcePack/releases
 - Low fire - Some random mediafire link I found
 - iwanio - 1.13 and 1.14 versions
 - Vanilla Tweaks - https://vanillatweaks.net/picker/resource-packs/
+- BigDoors sound effects from the [BigDoors](https://www.spigotmc.org/resources/big-doors.58669/)
