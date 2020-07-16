@@ -1,0 +1,27 @@
+{
+    "bd.dragging1": {
+		"sounds": [
+			"custom/dragging1"
+		]
+	},   
+	"bd.dragging2": {
+		"sounds": [
+			"custom/dragging2"
+		]
+	},
+    "bd.closing-vault-door": {
+		"sounds": [
+			"custom/closing-vault-door"
+		]
+	},
+	"bd.drawbridge-rattling": {
+		"sounds": [
+			"custom/drawbridge-rattling"
+		]
+	},
+	"bd.thud": {
+		"sounds": [
+			"custom/thud"
+		]
+	}
+}
