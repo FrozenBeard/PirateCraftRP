@@ -22,6 +22,9 @@ PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be o
 
 
 # How to create the pack
+For the most updated Clone this repo into 
+```%appdata%/.minecraft/resourcepacks```
+
 Go to the releases section and download latest version
 https://github.com/PirateCraft/ResourcePack/releases
 
