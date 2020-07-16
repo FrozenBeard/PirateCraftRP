@@ -2,6 +2,7 @@
 PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be overlayed on top of your favorite texture pack, but with Vanilla tweaks and PirateCraft specialities. 
 
 # Features
+- Big annimated door sounds for when you open ```/doors``` on PirateCraft
 - PirateCraft spawn panoramic in main menu (GodsDead)
 - Dark UI theme ported from Vanillatweaks 1.13 down to 1.12 (GodsDead)
 - 2 varients with sounds and without sounds (Massive file size difference)
@@ -19,6 +20,7 @@ PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be o
   - HUD, Ping color Indicator
   - GUI, No Java Edition Title
   - GUI, Smoother Font
+  - GUI, Stone background for options menu (Dirt is rubbish!)
 
 
 # How to create the pack
@@ -34,7 +36,6 @@ Go to the releases section and download latest version
 https://github.com/PirateCraft/ResourcePack/releases
 
 # Todo
-- Add bigdoors sounds
 - Add in NicoSemsrott Artwork for Paitings
 - Add in custom item for Grappling hook
 - Add in a few custom items for Custom named event weapons https://dokucraft.co.uk/stash/
