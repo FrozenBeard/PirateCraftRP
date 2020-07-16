@@ -2,7 +2,7 @@
 PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be overlayed on top of your favorite texture pack, but with Vanilla tweaks and PirateCraft specialities. 
 
 # Features
-- Custom artwork for PirateCraft created by NicoSemsrott
+- Custom artwork for PirateCraft created by [NicoSemsrott](https://www.instagram.com/panpukinart/?hl=en)
 - Big annimated door sounds for when you open ```/doors``` on PirateCraft
 - PirateCraft spawn panoramic in main menu (GodsDead)
 - Dark UI theme ported from Vanillatweaks 1.13 down to 1.12 (GodsDead)
@@ -44,9 +44,10 @@ https://github.com/PirateCraft/ResourcePack/releases
 - Upload to PlanetMinecraft
 
 # Credit
+- Custom Painting Artwork [NicoSemsrott](https://www.instagram.com/panpukinart/?hl=en)
 - Scarecrow01 - Paying for the 3D gun textures
 - Pirate Swords - https://twitter.com/zweiund4zig/status/868608573428858880
-- Paintings - Dokucraft.co.uk/Images off Google
+- Placeholder Paintings - Dokucraft.co.uk
 - Sounds - https://piratemc.com/topic/sea-shanty-resource-pack/
 - Low fire - Some random mediafire link I found
 - iwanio - 1.13 and 1.14 versions
