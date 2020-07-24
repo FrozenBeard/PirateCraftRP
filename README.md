@@ -7,7 +7,7 @@ PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be o
 - PirateCraft spawn panoramic in main menu by [GodsDead](https://piratemc.com/members/GodsDead/)
 - Dark UI theme ported from Vanillatweaks 1.13 down to 1.12 by [GodsDead](https://piratemc.com/members/GodsDead/)
 - Pirate Shanties for music discs!
-- 3D model guns replace horse armour (coming soon, models are made!)
+- Custom 3D model guns for the quality armory plugin
 - Pirate Swords to replace normal swords
 - Vanilla Tweaks
   - Unobtrusive Fire, Low fire for PVP!
@@ -36,7 +36,6 @@ https://github.com/PirateCraft/ResourcePack/releases
 # Todo
 - Add in custom item for Grappling hook
 - Add in a few custom items for Custom named event weapons https://dokucraft.co.uk/stash/
-- Figure out guns for how quality armory does their gun textures
 - Figure out mod to replace "Realms" in the main menu with PirateCraft (mod) with online players/ two buttons, click to play and more information.
 - Create logo like this for pack https://i.redd.it/kjhhzy3u42o41.png / https://external-preview.redd.it/MwOT7ERLKDT6Wws4NvRUm6rX-CTXmr1sChHOkYhFrnY.png?width=960&crop=smart&format=pjpg&auto=webp&s=1ebf7e0d0b29140e394f781dddd5232f7ec1575b maybe via https://www.youtube.com/watch?v=h0wGWKzQndQ for main menu
 - Upload to PlanetMinecraft
