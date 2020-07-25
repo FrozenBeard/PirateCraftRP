@@ -49,3 +49,4 @@ https://github.com/PirateCraft/ResourcePack/releases
 - iwanio - 1.13 and 1.14 versions
 - Vanilla Tweaks - https://vanillatweaks.net/picker/resource-packs/
 - BigDoors sound effects from the [BigDoors](https://www.spigotmc.org/resources/big-doors.58669/)
+- Grapplinghook texture from [grapplemod](https://github.com/yyon/grapplemod)
