@@ -7,7 +7,7 @@ PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be o
 - PirateCraft spawn panoramic in main menu by [GodsDead](https://piratemc.com/members/GodsDead/)
 - Dark UI theme ported from Vanillatweaks 1.13 down to 1.12 by [GodsDead](https://piratemc.com/members/GodsDead/)
 - Pirate Shanties for music discs!
-- Custom 3D model guns for the quality armory plugin
+- Custom 3D model guns for the quality armory plugin by [Markusi13](https://piratemc.com/members/Markusi13/)
 - Pirate Swords to replace normal swords
 - Vanilla Tweaks
   - Unobtrusive Fire, Low fire for PVP!
@@ -46,7 +46,6 @@ https://github.com/PirateCraft/ResourcePack/releases
 - Pirate Swords - https://twitter.com/zweiund4zig/status/868608573428858880
 - Placeholder Paintings - Dokucraft.co.uk
 - Sounds - https://piratemc.com/topic/sea-shanty-resource-pack/
-- Low fire - Some random mediafire link I found
 - iwanio - 1.13 and 1.14 versions
 - Vanilla Tweaks - https://vanillatweaks.net/picker/resource-packs/
 - BigDoors sound effects from the [BigDoors](https://www.spigotmc.org/resources/big-doors.58669/)
