@@ -43,6 +43,7 @@ https://github.com/PirateCraft/ResourcePack/releases
 # Credit
 - Custom Painting Artwork [NicoSemsrott](https://www.instagram.com/panpukinart/?hl=en)
 - Scarecrow01 - Paying for the 3D gun textures
+- Markusi13 - Creating a custom 3D grenade texture
 - Pirate Swords - https://twitter.com/zweiund4zig/status/868608573428858880
 - Placeholder Paintings - Dokucraft.co.uk
 - Sounds - https://piratemc.com/topic/sea-shanty-resource-pack/
