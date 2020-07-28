@@ -34,7 +34,6 @@ Go to the releases section and download latest version
 https://github.com/PirateCraft/ResourcePack/releases
 
 # Todo
-- Add in custom item for Grappling hook
 - Add in a few custom items for Custom named event weapons https://dokucraft.co.uk/stash/
 - Figure out mod to replace "Realms" in the main menu with PirateCraft (mod) with online players/ two buttons, click to play and more information.
 - Create logo like this for pack https://i.redd.it/kjhhzy3u42o41.png / https://external-preview.redd.it/MwOT7ERLKDT6Wws4NvRUm6rX-CTXmr1sChHOkYhFrnY.png?width=960&crop=smart&format=pjpg&auto=webp&s=1ebf7e0d0b29140e394f781dddd5232f7ec1575b maybe via https://www.youtube.com/watch?v=h0wGWKzQndQ for main menu
