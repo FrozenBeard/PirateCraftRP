@@ -8,6 +8,7 @@ PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be o
 - Dark UI theme ported from Vanillatweaks 1.13 down to 1.12 by [GodsDead](https://piratemc.com/members/GodsDead/)
 - Pirate Shanties for music discs! (only in the shanty branch)
 - Custom 3D model guns for the quality armory plugin by [Markusi13](https://piratemc.com/members/Markusi13/)
+- Custom 3D model grapplinghook by [Markusi13](https://piratemc.com/members/Markusi13/)
 - Pirate Swords to replace normal swords
 - Vanilla Tweaks
   - Unobtrusive Fire, Low fire for PVP!
@@ -42,7 +43,7 @@ https://github.com/PirateCraft/ResourcePack/releases
 # Credit
 - Custom Painting Artwork [NicoSemsrott](https://www.instagram.com/panpukinart/?hl=en)
 - Scarecrow01 - Paying for the 3D gun textures
-- Markusi13 - Creating a custom 3D grenade texture
+- Markusi13 - Creating custom 3D grenade and grapplinghook textures
 - Pirate Swords - https://twitter.com/zweiund4zig/status/868608573428858880
 - Placeholder Paintings - Dokucraft.co.uk
 - Sounds - https://piratemc.com/topic/sea-shanty-resource-pack/
