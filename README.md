@@ -52,8 +52,9 @@ https://github.com/PirateCraft/ResourcePack/releases
 - BigDoors sound effects from the [BigDoors](https://www.spigotmc.org/resources/big-doors.58669/)
 - Grapplinghook texture from [grapplemod](https://github.com/yyon/grapplemod)
 
-# Terms of Conditions
 -----------------------------------------------------
+# Terms of Conditions
+
 PIRATECRAFT resource pack for Minecraft by Markusi13
 COPYRIGHT 2020 PIRATECRAFT
 -----------------------------------------------------
