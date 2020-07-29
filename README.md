@@ -55,7 +55,7 @@ https://github.com/PirateCraft/ResourcePack/releases
 -----------------------------------------------------
 # Terms of Conditions
 
-PIRATECRAFT resource pack for Minecraft by Markusi13
+PIRATECRAFT resource pack for Minecraft by [Markusi13](https://piratemc.com/members/Markusi13/)
 COPYRIGHT 2020 PIRATECRAFT
 -----------------------------------------------------
 
