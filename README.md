@@ -55,5 +55,7 @@ https://github.com/PirateCraft/ResourcePack/releases
 -----------------------------------------------------
 # Terms of Conditions
 
-All files used in the resourepack are being credited, you may ask the original owners for permission to use the files yourself.
+Piratecraft has been given permission to use the files from the resourepack either by giving credit to the original owners or by direct message with the correspondent individual.
 
+You may not use any of the files outside of the resourepack without asking the correspondent individual for permission.
+You may also not use the custom 3D textures created by Markusi13 outside of the piratecraft resourepack.
