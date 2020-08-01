@@ -35,7 +35,7 @@ Go to the releases section and download latest version
 https://github.com/PirateCraft/ResourcePack/releases
 
 # Recommendation 
-It is recommended to use the latest [OptiFine 1.12.2 HD U F5](https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_F5.jar&x=8ba5193007a58520168e7f78ef7aff2f) (direct download link) in order for the custom textures like grapplinghook and event weapons to work. The gun texture's will even work without Optifine.
+It is recommended to use the latest [OptiFine 1.12.2 HD U F5](https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_F5.jar&x=8ba5193007a58520168e7f78ef7aff2f) (direct download link) in order for the custom textures like grapplinghook and event weapons to work. The gun textures will even work without Optifine.
 
 # Todo
 - Add in a few custom items for Custom named event weapons https://dokucraft.co.uk/stash/
