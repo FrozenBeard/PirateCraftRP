@@ -9,6 +9,7 @@ PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be o
 - Pirate Shanties for music discs! (only in the shanty branch)
 - Custom 3D model guns for the quality armory plugin by [Markusi13](https://piratemc.com/members/Markusi13/)
 - Custom 3D model grapplinghook by [Markusi13](https://piratemc.com/members/Markusi13/)
+- Sword textures by [Dokucraft](https://dokucraft.co.uk/stash/)
 - Pirate Swords to replace normal swords
 - Vanilla Tweaks
   - Unobtrusive Fire, Low fire for PVP!
