@@ -37,12 +37,6 @@ https://github.com/PirateCraft/ResourcePack/releases
 # Recommendation 
 It is recommended to use the latest [OptiFine 1.12.2 HD U F5](https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_F5.jar&x=8ba5193007a58520168e7f78ef7aff2f) (direct download link) in order for the custom textures like grapplinghook and event weapons to work. The gun textures will even work without Optifine.
 
-# Todo
-- Add in a few custom items for Custom named event weapons https://dokucraft.co.uk/stash/
-- Figure out mod to replace "Realms" in the main menu with PirateCraft (mod) with online players/ two buttons, click to play and more information.
-- Create logo like this for pack https://i.redd.it/kjhhzy3u42o41.png / https://external-preview.redd.it/MwOT7ERLKDT6Wws4NvRUm6rX-CTXmr1sChHOkYhFrnY.png?width=960&crop=smart&format=pjpg&auto=webp&s=1ebf7e0d0b29140e394f781dddd5232f7ec1575b maybe via https://www.youtube.com/watch?v=h0wGWKzQndQ for main menu
-- Upload to PlanetMinecraft
-
 # Credit
 - Custom Painting Artwork [NicoSemsrott](https://www.instagram.com/panpukinart/?hl=en)
 - Scarecrow01 - Paying for the 3D gun textures
