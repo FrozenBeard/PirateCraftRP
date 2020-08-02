@@ -20,7 +20,6 @@ PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be o
   - Utility Directional Hoppers, Shows the direction of hoppers
   - HUD, Ping color Indicator
   - GUI, No Java Edition Title
-  - GUI, Smoother Font
   - GUI, Stone background for options menu (Dirt is rubbish!)
 
 # How to create the pack
