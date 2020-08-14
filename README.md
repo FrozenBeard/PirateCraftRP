@@ -10,7 +10,6 @@ PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be o
 - Custom 3D model guns for the quality armory plugin by [Markusi13](https://piratemc.com/members/Markusi13/)
 - Custom 3D model grapplinghook by [Markusi13](https://piratemc.com/members/Markusi13/)
 - Custom 3D Pirate related models by [Spectre0987](https://github.com/Spectre0987/PirateMod-1.14)
-- Sword textures by [Dokucraft](https://dokucraft.co.uk/stash/)
 - Pirate Swords to replace normal swords
 - Vanilla Tweaks
   - Unobtrusive Fire, Low fire for PVP!
@@ -48,6 +47,7 @@ It is recommended to use the latest [OptiFine 1.12.2 HD U F5](https://optifine.n
 - Sounds - https://piratemc.com/topic/sea-shanty-resource-pack/
 - iwanio - 1.13 and 1.14 versions
 - Vanilla Tweaks - https://vanillatweaks.net/picker/resource-packs/
+- [Dokucraft](https://dokucraft.co.uk/stash/) for various custom textures
 - BigDoors sound effects from the [BigDoors](https://www.spigotmc.org/resources/big-doors.58669/)
 - [Spectre0987](https://github.com/Spectre0987/PirateMod-1.14) Custom 3D Pirate related models
 
