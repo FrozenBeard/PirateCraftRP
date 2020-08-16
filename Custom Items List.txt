@@ -31,6 +31,7 @@ Magic Wand			Blaze Rod
 Molten Axe			Diamond Axe
 Morph Shard			Diamond Sword
 Mythical Spawn Egg		Spawn Egg
+Nautilus Shell			Diamond Chestplate
 Nether Coin			Gold Nugget
 Pet Permit			Paper
 Pirate Bible			Written Book
