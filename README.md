@@ -40,7 +40,7 @@ It is recommended to use the latest [OptiFine 1.12.2 HD U F5](https://optifine.n
 # Credit
 - Custom Painting Artwork [NicoSemsrott](https://www.instagram.com/panpukinart/?hl=en)
 - Scarecrow01 - Paying for the 3D gun textures
-- Markusi13 - Creating custom 3D grenade and grapplinghook textures
+- Markusi13 - Creating custom 3D textures: grenade, grapplinghook, ship 
 - tomaxed44 - [Beyond The Lands: Fancy Weapons](http://minecraft.curseforge.com/projects/beyond-the-lands): 3D textures
 - Pirate Swords - https://twitter.com/zweiund4zig/status/868608573428858880
 - Placeholder Paintings - Dokucraft.co.uk
