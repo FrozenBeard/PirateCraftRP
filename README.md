@@ -51,6 +51,8 @@ It is recommended to use the latest [OptiFine 1.12.2 HD U F5](https://optifine.n
 - BigDoors sound effects from the [BigDoors](https://www.spigotmc.org/resources/big-doors.58669/)
 - [Spectre0987](https://github.com/Spectre0987/PirateMod-1.14) Custom 3D Pirate related models
 - [FTGU](https://www.curseforge.com/minecraft/mc-mods/from-the-ground-up) Magnifying glass texture
+- [Mizunos](https://www.ghoulcraft.com/medieval-pirate) Ghoulcraft 3D models and textures
+
 
 
 -----------------------------------------------------
