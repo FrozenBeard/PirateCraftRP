@@ -6,7 +6,6 @@ PirateCraft Resource pack for piratemc.com, Aimed to be an Overlay pack, to be o
 - Big annimated door sounds for when you open ```/doors``` on PirateCraft 
 - PirateCraft spawn panoramic in main menu by [GodsDead](https://piratemc.com/members/GodsDead/)
 - Dark UI theme ported from Vanillatweaks 1.13 down to 1.12 by [GodsDead](https://piratemc.com/members/GodsDead/)
-- Pirate Shanties for music discs! (only in the shanty branch)
 - Custom 3D model guns for the quality armory plugin by [Markusi13](https://piratemc.com/members/Markusi13/)
 - Custom 3D model grapplinghook by [Markusi13](https://piratemc.com/members/Markusi13/)
 - Custom 3D Pirate related models by [Spectre0987](https://github.com/Spectre0987/PirateMod-1.14)
