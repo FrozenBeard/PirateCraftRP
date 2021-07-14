@@ -52,6 +52,7 @@ It is recommended to use the latest [OptiFine 1.12.2 HD U F5](https://optifine.n
 - [FTGU](https://www.curseforge.com/minecraft/mc-mods/from-the-ground-up) Magnifying glass texture
 - [Mizunos](https://www.ghoulcraft.com/medieval-pirate) Ghoulcraft 3D models and textures
 - [Pashjn](https://github.com/PolLamesch) Custom 3D models
+- [IronAR](https://piratemc.com/members/IronAR/) Custom Weapons
 
 
 
